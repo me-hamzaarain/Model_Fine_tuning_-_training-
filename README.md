@@ -30,10 +30,6 @@ To be listed once implementation code is added. Expected libraries:
 - Scikit-learn
 - Pandas, Numpy, Matplotlib
 
-## 👤 Author
-
-- **Umer** – Deep Learning Practitioner
-
 ---
 
 Feel free to modify or extend it once you include the code or notebooks.
