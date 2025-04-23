@@ -30,7 +30,3 @@ To be listed once implementation code is added. Expected libraries:
 - Scikit-learn
 - Pandas, Numpy, Matplotlib
 
----
-
-Feel free to modify or extend it once you include the code or notebooks.
-Would you like help generating dummy implementation code for this README? &#8203;:contentReference[oaicite:0]{index=0}&#8203;
